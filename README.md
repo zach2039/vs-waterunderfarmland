@@ -4,9 +4,9 @@ Water Under Farmland
 Overview
 --------
 
-Allows water directly under farmland to be a valid moisture source. 
+This is a server-side mod that allows water under farmland to be a valid moisture source. 
 
-Does not allow water to irrigate diagonally from below; water must be directly below the farmland.
+Does not allow water to irrigate diagonally from below; water must be _directly below_ the farmland for it to be valid.
 
 
 Known issues
