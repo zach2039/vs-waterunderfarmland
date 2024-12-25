@@ -1,0 +1,16 @@
+{
+  "type": "code",
+  "modid": "waterunderfarmland",
+  "name": "Water Under Farmland",
+  "authors": [
+    "Zach2039"
+  ],
+  "description": "Allows water directly under farmland to be a valid moisture source.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "*"
+  },
+  "Side": "Server",
+  "RequiredOnClient": false,
+  "RequiredOnServer": true
+}
